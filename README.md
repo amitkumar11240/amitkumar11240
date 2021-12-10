@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitkumar11240" alt="amitkumar11240" /></a> </p>
 
-- 🔭 I’m currently working on **Ludo**
+- 🔭 I’m currently working on **E-Commerce Project**
 
 - 👯 I’m looking to collaborate on **Woo commerce Project**
 
