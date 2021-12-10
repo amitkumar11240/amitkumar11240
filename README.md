@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Woo commerce Project**
 
-- 🤝 I’m looking for help with **Woo commerce Project.**
+- 🤝 I’m looking for help with **Woo commerce Project**
 
-- 💬 Ask me about **Tech related stuff.**
+- 💬 Ask me about **Tech related stuff**
 
 - 📫 How to reach me **amit.kumar@cloudanalogy.com**
 
